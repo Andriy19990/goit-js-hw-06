@@ -8,4 +8,4 @@ form.addEventListener("submit", (event) => {
     console.log({ "email": email.value, "password": password.value });
     form.reset();
     }
-});
+})
